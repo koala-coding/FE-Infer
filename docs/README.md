@@ -7,4 +7,27 @@ FE-Infer 将会收集大厂招聘信息， 内推渠道，实习岗位的信息�
 
 **招聘者：**  欢迎 [添加内推职位]()  
 
-**求职者** [查看职位](README.md)
+### 求职者
+
+**内推**
+- [淘系技术部-用户增长-前端技术（杭州）](/infer/20200307-hangzhou-ali_tabao.md)
+
+- [滴滴【体验平台 - 前端】招聘（附面试题）](/infer/20200307-beijing-didi.md)
+
+- [【内推】玩吧-前端开发工程师（H5）](/infer/20200307-beijing-wanba.md)
+
+- [`上海`字节跳动前端（实习生 /高级 / 资深 / 专家）](/infer/20200307-shanghai-zjtd.md)
+
+
+**校招**
+
+- [【校招】阿里巴巴淘宝系-web前端工程师](/school/20200307-hangzhou-taobao.md)
+
+- [【应届生】中物院软件中心2020线上春招(北京、成都)](/school/20200307-chengdu-zwyrjzx.md)
+
+- [【实习】21届暑期实习生招聘(招商银行) `上海`](/school/20200307-shanghai-zsyh.md)
+
+- [【实习】2020春实习-深圳-Web前端研发工程师](/school/20200307-shengzheng-baidu.md)
+
+**社招**
+- [海康威视 (中级 / 高级 / 资深 / 专家)(主要杭州)](/social/20200307-hangzhou-hkws.md)
