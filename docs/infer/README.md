@@ -1,5 +1,5 @@
 
-
+- [ 神策数据 - 北京 - 前端架构师(北京)](/infer/20200308-beijing-scsj.md)
 - [淘系技术部-用户增长-前端技术（杭州）](/infer/20200307-hangzhou-ali_tabao.md)
 
 - [滴滴【体验平台 - 前端】招聘（附面试题）](/infer/20200307-beijing-didi.md)
