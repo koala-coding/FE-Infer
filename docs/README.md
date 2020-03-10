@@ -33,7 +33,7 @@ FE-Infer 将会收集大厂招聘信息， 内推渠道，实习岗位以及一�
 
 - [【实习】2020春实习-深圳-Web前端研发工程师](./school/20200307-shengzheng-baidu.md)
 
-- [2020校园春招-奇安信-web前端开发工程师](./school/20200307-20200310-beijing-qax.md)
+- [2020校园春招-奇安信-web前端开发工程师](./school/20200310-beijing-qax.md)
 
 **社招**
 - [海康威视 (中级 / 高级 / 资深 / 专家)(主要杭州)](./social/20200307-hangzhou-hkws.md)
