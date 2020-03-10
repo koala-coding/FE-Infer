@@ -6,3 +6,4 @@
 - [【实习】21届暑期实习生招聘(招商银行) `上海`](/school/20200307-shanghai-zsyh.md)
 
 - [【实习】2020春实习-深圳-Web前端研发工程师](/school/20200307-shengzheng-baidu.md)
+- [2020校园春招-奇安信-web前端开发工程师](/school/20200307-20200310-beijing-qax.md)
