@@ -1,3 +1,4 @@
+- [深圳开思时代科技有限公司- 深圳 - 初/中/高级前端](/infer/20200312-shengzheng-kssd.md)
 - [快手 - 北京 - 高级前端开发工程师](/infer/20200311-beijing-kuaishou.md)
 
 - [探途网络-广州-全球购骑士卡前端开发](/infer/20200310-guangzhou-ttwl.md)
