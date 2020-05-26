@@ -1,4 +1,6 @@
 
+- [北京-美图秀秀-前端工程师（18-30k）](/docs/infer/20200526-beijing-meituxiuxiu.md)
+  
 - [深圳-米唐科技-服务器后端开发工程师（20K-30K）](/docs/infer/20200426-shenzhen-shenzhenmitang.md)
 
 - [字节跳动 - 北京中关村 - 前端开发工程师 - 级别不限](/docs/infer/20200404-beijing-toutiao.md)
