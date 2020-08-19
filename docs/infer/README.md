@@ -1,4 +1,6 @@
 
+- [北京-北京首汽智行科技-H5开发工程师（15-30k）](/docs/infer/20200819-beijing-shouqi.md)
+
 - [北京-美图秀秀-前端工程师（18-30k）](/docs/infer/20200526-beijing-meituxiuxiu.md)
   
 - [深圳-米唐科技-服务器后端开发工程师（20K-30K）](/docs/infer/20200426-shenzhen-shenzhenmitang.md)
