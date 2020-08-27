@@ -1,3 +1,5 @@
+- [武汉-武汉所为科技有限公司-中级前端开发-8-10k](/docs/infer/20200827-beijing-suowei.md)
+
 - [北京-龙湖集团数字科技部-(校招、中级 、高级 、资深 、 专家)](/docs/infer/20200827-beijing-longhu.md)
 
 - [北京-印象笔记-前端开发工程师](/docs/infer/20200821-beijing-yingxiang.md)
@@ -11,8 +13,11 @@
 - [字节跳动 - 北京中关村 - 前端开发工程师 - 级别不限](/docs/infer/20200404-beijing-toutiao.md)
   
 - [蚂蚁金服-北京/杭州-前端高级/专家-（25K-40K）](/docs/infer/20200318-hangzhou-myjf.md)
+
 - [平安科技 - 深圳南山区 - 高级WEB前端开发工程师 - 18~25k](/docs/infer/20200313-shenzhen-pingan.md)
+
 - [深圳开思时代科技有限公司- 深圳 - 初/中/高级前端](/docs/infer/20200312-shengzheng-kssd.md)
+
 - [快手 - 北京 - 高级前端开发工程师](/docs/infer/20200311-beijing-kuaishou.md)
 
 - [探途网络-广州-全球购骑士卡前端开发](/docs/infer/20200310-guangzhou-ttwl.md)
