@@ -10,6 +10,8 @@ FE-Infer 将会收集大厂招聘信息， 内推渠道，实习岗位以及一�
 ### 求职者
 
 最近更新
+- [武汉-武汉所为科技有限公司-中级前端开发](./infer/20200827-beijing-suowei.md)
+
 - [北京-龙湖集团数字科技部-(校招、中级 、高级 、资深 、 专家)](./infer/20200827-beijing-longhu.md)
 
 - [北京-印象笔记-前端开发工程师](./infer/20200821-beijing-yingxiang.md)
@@ -17,6 +19,8 @@ FE-Infer 将会收集大厂招聘信息， 内推渠道，实习岗位以及一�
 - [北京-北京首汽智行科技-H5开发工程师 15k-30k](./infer/20200819-beijing-shouqi.md)
 
 - [北京-美图秀秀-前端工程师 18k-30k](./infer/20200526-beijing-meituxiuxiu.md)
+
+2020-04-26
 
 - [深圳-米唐科技-服务器后端开发工程师（20K-30K）](./infer/20200426-shenzhen-shenzhenmitang.md)
 
