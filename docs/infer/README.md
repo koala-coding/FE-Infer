@@ -1,3 +1,4 @@
+- [北京-龙湖集团数字科技部-(校招、中级 、高级 、资深 、 专家)](/docs/infer/20200827-beijing-longhu.md)
 
 - [北京-印象笔记-前端开发工程师](/docs/infer/20200821-beijing-yingxiang.md)
 
