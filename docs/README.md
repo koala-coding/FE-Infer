@@ -10,6 +10,8 @@ FE-Infer 将会收集大厂招聘信息， 内推渠道，实习岗位以及一�
 ### 求职者
 
 最近更新
+- [北京-印象笔记-前端开发工程师](./infer/20200827-beijing-longhu.md)
+
 - [北京-印象笔记-前端开发工程师](./infer/20200821-beijing-yingxiang.md)
 
 - [北京-北京首汽智行科技-H5开发工程师 15k-30k](./infer/20200819-beijing-shouqi.md)
