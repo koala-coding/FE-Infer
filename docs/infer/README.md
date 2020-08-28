@@ -1,3 +1,5 @@
+- [哔哩哔哩-直播 - 上海 - 中级/高级/资深 - 15K~30K](/docs/infer/20200828-shanghai-bilibili.md)
+
 - [武汉-武汉所为科技有限公司-中级前端开发-8-10k](/docs/infer/20200827-beijing-suowei.md)
 
 - [北京-龙湖集团数字科技部-(校招、中级 、高级 、资深 、 专家)](/docs/infer/20200827-beijing-longhu.md)
