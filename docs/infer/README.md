@@ -1,3 +1,5 @@
+- [小米集团 - 北京 - 高级前端工程师 -20k～35K](/docs/infer/20201016-beijing-xiaomi.md)
+
 - [RN开发工程师-上海- 30k-50k](/docs/infer/20201018-shanghai-RN.md)
 
 - [哔哩哔哩-直播 - 上海 - 中级/高级/资深 - 15K~30K](/docs/infer/20200828-shanghai-bilibili.md)
