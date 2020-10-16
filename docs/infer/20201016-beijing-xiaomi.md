@@ -38,7 +38,7 @@
 <br/>
 
 ## 联系方式
-欢迎简历砸来：yangshucong@xiaomi.com
+欢迎简历砸来：ycfeel@qq.com
 
 <br/>
 
