@@ -1,3 +1,5 @@
+- [RN开发工程师-上海- 30k-50k][/docs/infer/20201018-shanghai-RN.md]
+
 - [哔哩哔哩-直播 - 上海 - 中级/高级/资深 - 15K~30K](/docs/infer/20200828-shanghai-bilibili.md)
 
 - [武汉-武汉所为科技有限公司-中级前端开发-8-10k](/docs/infer/20200827-beijing-suowei.md)
