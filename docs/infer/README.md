@@ -1,3 +1,6 @@
+
+- [字节跳动 - 深圳 - 初级、高级、资深前端开发工程师 - 20-50k](/docs/infer/20201110-shengzhen-zijietiaodong.md)
+
 - [小米集团 - 北京 - 高级前端工程师 -20k～35K](/docs/infer/20201016-beijing-xiaomi.md)
 
 - [RN开发工程师-上海- 30k-50k](/docs/infer/20201018-shanghai-RN.md)
