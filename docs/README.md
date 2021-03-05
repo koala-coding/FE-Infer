@@ -11,6 +11,8 @@ FE-Infer 将会收集大厂招聘信息， 内推渠道，实习岗位以及一�
 
 最近更新
 
+- [北京东华博泰科技有限公司-中高级前端工程师](./infer/20210305-donghua-beijing.md)
+
 - [字节跳动 - 深圳 - 初级、高级、资深前端开发工程师 - 20-50k](./infer/20201110-shengzhen-zijietiaodong.md)
 
 - [阿里巴巴高德 - 北京 - 中级 / 高级 / 资深 / 专家 - 25k～50k(16薪)](./infer/20210220-beijing-gaode.md)
