@@ -8,12 +8,6 @@ FE-Infer 将会收集大厂招聘信息， 内推渠道，实习岗位以及一�
 **招聘者：**  欢迎 [添加内推职位](https://github.com/koala-coding/FE-Infer/issues/new?assignees=&labels=&template=publish_job.md&title=%E5%85%AC%E5%8F%B8%E5%90%8D+-+%E5%9C%B0%E7%82%B9+-+%E5%B2%97%E4%BD%8D%E7%BA%A7%E5%88%AB+-+%E8%96%AA%E8%B5%84%E8%8C%83%E5%9B%B4)  
 
 
-### 求职交流群
-如果你正在准备面试，想获取更多的面试真题， 可以**扫码下方二维码，免费获取面试资料**，内容包含字节、阿里、腾讯等大厂的面试题，希望对大家的求职备战有帮助。备注：【面试题】
-
-<img src="http://www.inode.club/wechat.jpg" width = "100" height = "100" alt="邀请加群二维码" align=center />
-
-
 ### 求职者
 
 最近更新
@@ -93,5 +87,11 @@ FE-Infer 将会收集大厂招聘信息， 内推渠道，实习岗位以及一�
 
 **社招**
 - [海康威视 (中级 / 高级 / 资深 / 专家)(主要杭州)](./social/20200307-hangzhou-hkws.md)
+
+
+### 求职交流群
+如果你正在准备面试，想获取更多的面试真题， 可以**扫码下方二维码，免费获取面试资料**，内容包含字节、阿里、腾讯等大厂的面试题，希望对大家的求职备战有帮助。备注：【面试题】
+
+<img src="http://www.inode.club/wechat.jpg" width = "120" height = "120" alt="邀请加群二维码" align=center />
 
 
