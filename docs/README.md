@@ -10,7 +10,9 @@ FE-Infer 将会收集大厂招聘信息， 内推渠道，实习岗位以及一�
 
 ### 求职交流群
 如果你正在准备面试，想获取更多的面试真题， 可以**扫码下方二维码，免费获取面试资料**，内容包含字节、阿里、腾讯等大厂的面试题，希望对大家的求职备战有帮助。备注：【面试题】
-![](http://www.inode.club/wechat.jpg =100x100)
+
+<img src="http://www.inode.club/wechat.jpg" width = "100" height = "100" alt="邀请加群二维码" align=center />
+
 
 ### 求职者
 
