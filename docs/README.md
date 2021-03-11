@@ -11,6 +11,8 @@ FE-Infer 将会收集大厂招聘信息， 内推渠道，实习岗位以及一�
 ### 求职者
 
 最近更新
+- [理想汽车-云计算部门--高级Node.js工程师/高级前端工程师-（30-50k）* (14-16)](./infer/20210311-lixiangqiche-beijing.md)
+
 - [美团-内推岗位-前端开发工程师-北京 薪资: 25-50k 15薪](./infer/20210309-meituan-beijing.md)
 
 - [蓝湖-北京望京soho -应届实习社招各种级别 -薪资OPEN](./infer/20210309-lanhu-beijing.md)
