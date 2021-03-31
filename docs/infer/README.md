@@ -1,4 +1,7 @@
 
+
+- [字节跳动-Node.js开发工程师（中、高级）-北京、深圳](/docs/infer/20210331-zijie-beijing.md)
+
 - [必示科技-高级前端开发工程师-25-50k - 15薪](/docs/infer/20210331-bishi-beijing.md)
 
 - [百度-ACG TMT团队--急需前端人员--上海](/docs/infer/20210331-baidu-shanghai.md)
