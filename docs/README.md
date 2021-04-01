@@ -11,6 +11,8 @@ FE-Infer 将会收集大厂招聘信息， 内推渠道，实习岗位以及一�
 ### 求职者
 
 最近更新
+- [虾皮-深圳-物流平台前端开发工程师](./infer/20210401-xiapi-shenzhen.md)
+
 - [京东-大部门零售云技术部-商业saas-前端架构师](./infer/20210401-jingdong1-beijing.md)
 
 - [京东-大部门零售云技术部-商业saas-前端开发工程](./infer/20210401-jingdong-beijing.md)
