@@ -1,4 +1,6 @@
 
+- [虾皮-深圳-物流平台前端开发工程师](/docs/infer/20210401-xiapi-shenzhen.md)
+
 - [京东-部门零售云技术部-商业saas-前端架构师](/docs/infer/20210401-jingdong1-beijing.md)
 
 - [京东-部门零售云技术部-商业saas-前端开发工程](/docs/infer/20210401-jingdong-beijing.md)
