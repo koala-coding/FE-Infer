@@ -14,7 +14,7 @@ FE-Infer 将会收集大厂招聘信息， 内推渠道，实习岗位以及一�
 - [京东-部门零售云技术部-商业saas-前端架构师](./infer/20210401-jingdong1-beijing.md)
 
 - [京东-部门零售云技术部-商业saas-前端开发工程](./infer/20210401-jingdong-beijing.md)
-- 
+
 - [字节跳动-Node.js开发工程师（中、高级）-北京、深圳](./infer/20210331-zijie-beijing.md)
 
 - [百度-ACG TMT团队--急需前端人员--上海](./infer/20210331-baidu-shanghai.md)
