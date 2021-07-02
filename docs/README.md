@@ -11,6 +11,14 @@ FE-Infer 将会收集大厂招聘信息， 内推渠道，实习岗位以及一�
 ### 求职者
 
 最近更新
+- [天眼查-【中高级前端开发工程师】20k-35k·15薪](./infer/20210702-tianyancha-beijing.md)
+
+- [字节跳动-云原生 - 成都 - 实习/高级/资深前端 - 20-40k](./infer/20210618-zijie-chengdu.md)
+
+- [ThoughtWorks - 西安北京上海深圳成都武汉 - 内推（社招、校招）](./infer/20210616-ThoughtWorks-beijing.md)
+
+2021.04-2021-05中旬
+
 - [虾皮-深圳-物流平台前端开发工程师](./infer/20210401-xiapi-shenzhen.md)
 
 - [京东-大部门零售云技术部-商业saas-前端架构师](./infer/20210401-jingdong1-beijing.md)
